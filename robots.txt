@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fdhmjypmcdw.github.io/sitemap.xml
